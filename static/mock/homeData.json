@@ -1,0 +1,369 @@
+{
+    "data":[
+        {
+            "city":"北京",
+            "swiperList": [
+                {
+                    "id": "01",
+                    "imgUrl":"/api/img/swiper1.jpg"
+                },
+                {
+                    "id": "02",
+                    "imgUrl":"/api/img/swiper2.jpg"
+                },
+                {
+                    "id": "03",
+                    "imgUrl":"/api/img/swiper3.jpg"
+                },
+                {
+                    "id": "04",
+                    "imgUrl":"/api/img/swiper4.jpg"
+                }
+            ],
+            "iconsList": [
+                {
+                    "id": "01",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "景点门票"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+                    "title": "必游榜单"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png",
+                    "title": "夏日玩水"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+                    "title": "主题乐园"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+                    "title": "动植物园"
+                },
+                {
+                    "id": "06",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6c/9e54a8540fee0102.png",
+                    "title": "故宫"
+                },
+                {
+                    "id": "07",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+                    "title": "一日游"
+                },
+                {
+                    "id": "08",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/54/35899492b1302802.png",
+                    "title": "公园"
+                },
+                {
+                    "id": "09",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+                    "title": "游乐场"
+                },
+                {
+                    "id": "10",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+                    "title": "全部玩乐"
+                }
+            ],
+            "hotList": [
+                {   "id": "01",
+                        "imgUrlUp": "http://img1.qunarzz.com/piao/fusion/1710/ab/159673b63e6ca702.png",
+                        "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/30b534b0de51ccac2906bcb6ba159988.jpg_250x250_86778c54.jpg",
+                        "title": "长隆野生动物世界",
+                        "mark": "209.5"
+                },
+                {   "id": "02",
+                        "imgUrlUp": "http://img1.qunarzz.com/piao/fusion/1710/2d/36d0c4adaebbbc02.png",
+                        "imgUrl": "http://img1.qunarzz.com/sight/p0/1707/88/889ae02b07140066a3.img.jpg_250x250_d4ca7f0a.jpg",
+                        "title": "长隆欢乐世界",
+                        "mark": "168"
+                },
+                {   "id": "03",
+                        "imgUrlUp": "http://img1.qunarzz.com/piao/fusion/1710/67/edc47ffef9e96b02.png",
+                        "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/3b/3bd311262ee06d8c90.img.jpg_250x250_787a066a.jpg",
+                        "title": "广州长隆旅游度假区",
+                        "mark": "66"
+                },
+                {   "id": "04",
+                        "imgUrlUp": "",
+                        "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/27/ef08b0cb4a5afb2f570e5c4dff5f743e.jpg_250x250_2e9029da.jpg",
+                        "title": "长隆国际大马戏剧院",
+                        "mark": "321"
+                },
+                {   "id": "05",
+                        "imgUrlUp": "",
+                        "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/ee/ee2fb567add7969390.water.jpg_250x250_9f556831.jpg",
+                        "title": "广州塔",
+                        "mark": "75"
+                },
+                {   "id": "06",
+                        "imgUrlUp": "",
+                        "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/1c/1c67791edbe2677b90.img.jpg_250x250_8f1dcbbd.jpg",
+                        "title": "珠江夜游",
+                        "mark": "150"
+                }
+            ],
+            "likeList": [
+                {
+                        "id": "01",
+                        "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/30b534b0de51ccac2906bcb6ba159988.jpg_200x200_2f08733b.jpg",
+                        "title": "长隆野生动物世界",
+                        "start": "☆☆☆",
+                        "comment": "123条评论",
+                        "price": "125",
+                        "address": "广州长隆...",
+                        "active_title": "熊猫三胞胎与您共享欢乐时光"
+                },
+                {
+                        "id": "02",
+                        "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/3b/3bd311262ee06d8c90.img.jpg_200x200_c118d7da.jpg",
+                        "title": "广州长隆旅游度假区",
+                        "start": "☆☆☆",
+                        "comment": "45323条评论",
+                        "price": "65",
+                        "address": "番禺",
+                        "active_title": "《奔跑吧兄弟》取景地"
+                },
+                {
+                        "id": "03",
+                        "imgUrl": "http://img1.qunarzz.com/sight/p0/1601/3d/3dc7f222d6bca6a790.img.jpg_200x200_e0bb3017.jpg",
+                        "title": "广州花城汇MAG环球魔幻世界",
+                        "start": "☆☆☆☆☆",
+                        "comment": "123798条评论",
+                        "price": "128",
+                        "address": "广州",
+                        "active_title": "汇集了全球各种酷炫游乐科技"
+                },
+                {
+                        "id": "04",
+                        "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/31/74eabd4dc95afd494d92a5006c9ad4f5.water.jpg_200x200_b27fe752.jpg",
+                        "title": "美林湖温泉",
+                        "start": "☆☆☆☆☆",
+                        "comment": "785433条评论",
+                        "price": "90",
+                        "address": "花都区",
+                        "active_title": ""
+                }
+            ],
+            "goWhereList": [
+                {
+                        "id": "01",
+                        "imgUrl": "http://img1.qunarzz.com/sight/source/1812/fe/208e0360d686b8.jpg_r_640x214_7b9e6607.jpg",
+                        "proName": "广州泡汤圣地",
+                        "proDetaile": "解压之地，放松自己，来一段轻松的旅程。"
+                },
+                {
+                        "id": "02",
+                        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/92/580e9ea4f37a1b.jpg_r_640x214_72112761.jpg",
+                        "proName": "广州必打卡",
+                        "proDetaile": "感受现代与传统相融合的广州"
+                },
+                {
+                        "id": "03",
+                        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+                        "proName": "南国冰雪乐园",
+                        "proDetaile": "这里可以让你在南国感受到北国风光，让南国的你“零距离”感受北国银装素裹壮观之景"
+                },
+                {
+                        "id": "04",
+                        "imgUrl": "http://img1.qunarzz.com/sight/source/1602/9c/39c5ce9ff58609.jpg_r_640x214_efb90102.jpg",
+                        "proName": "粤西温泉必游",
+                        "proDetaile": "自驾粤西，这里有最全最心仪的温泉池，环境优美，舒舒服服的泡个热汤，远离繁忙的工作"
+                }
+            ]
+            
+        },
+        {
+            "city" :"广州",
+            "swiperList": [
+                {
+                    "id": "01",
+                    "imgUrl": "/api/img/swiper1.jpg"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "/api/img/swiper2.jpg"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "/api/img/swiper3.jpg"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "/api/img/swiper4.jpg"
+                }
+            ],
+            "iconsList": [
+                {
+                    "id": "01",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "景点门票"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+                    "title": "广州必游"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+                    "title": "动植物园"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+                    "title": "游乐场"
+                },
+                {
+                    "id": "05",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+                    "title": "动植物园"
+                },
+                {
+                    "id": "06",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/3e/86314b2af03b7502.png",
+                    "title": "珠江夜游"
+                },
+                {
+                    "id": "07",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+                    "title": "一日游"
+                },
+                {
+                    "id": "08",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+                    "title": "泡温泉"
+                },
+                {
+                    "id": "09",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+                    "title": "游乐场"
+                },
+                {
+                    "id": "10",
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+                    "title": "全部玩乐"
+                }
+            ],
+            "hotList": [
+                {
+                    "id": "01",
+                    "imgUrlUp": "http://img1.qunarzz.com/piao/fusion/1710/ab/159673b63e6ca702.png",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/30b534b0de51ccac2906bcb6ba159988.jpg_250x250_86778c54.jpg",
+                    "title": "长隆野生动物世界",
+                    "mark": "209.5"
+                },
+                {
+                    "id": "02",
+                    "imgUrlUp": "http://img1.qunarzz.com/piao/fusion/1710/2d/36d0c4adaebbbc02.png",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1707/88/889ae02b07140066a3.img.jpg_250x250_d4ca7f0a.jpg",
+                    "title": "长隆欢乐世界",
+                    "mark": "168"
+                },
+                {
+                    "id": "03",
+                    "imgUrlUp": "http://img1.qunarzz.com/piao/fusion/1710/67/edc47ffef9e96b02.png",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/3b/3bd311262ee06d8c90.img.jpg_250x250_787a066a.jpg",
+                    "title": "广州长隆旅游度假区",
+                    "mark": "66"
+                },
+                {
+                    "id": "04",
+                    "imgUrlUp": "",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/201405/27/ef08b0cb4a5afb2f570e5c4dff5f743e.jpg_250x250_2e9029da.jpg",
+                    "title": "长隆国际大马戏剧院",
+                    "mark": "321"
+                },
+                {
+                    "id": "05",
+                    "imgUrlUp": "",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/ee/ee2fb567add7969390.water.jpg_250x250_9f556831.jpg",
+                    "title": "广州塔",
+                    "mark": "75"
+                },
+                {
+                    "id": "06",
+                    "imgUrlUp": "",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/1c/1c67791edbe2677b90.img.jpg_250x250_8f1dcbbd.jpg",
+                    "title": "珠江夜游",
+                    "mark": "150"
+                }
+            ],
+            "likeList": [
+                {
+                    "id": "01",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/07/30b534b0de51ccac2906bcb6ba159988.jpg_200x200_2f08733b.jpg",
+                    "title": "长隆野生动物世界",
+                    "start": "☆☆☆",
+                    "comment": "123条评论",
+                    "price": "125",
+                    "address": "广州长隆...",
+                    "active_title": "熊猫三胞胎与您共享欢乐时光"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/3b/3bd311262ee06d8c90.img.jpg_200x200_c118d7da.jpg",
+                    "title": "广州长隆旅游度假区",
+                    "start": "☆☆☆",
+                    "comment": "45323条评论",
+                    "price": "65",
+                    "address": "番禺",
+                    "active_title": "《奔跑吧兄弟》取景地"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1601/3d/3dc7f222d6bca6a790.img.jpg_200x200_e0bb3017.jpg",
+                    "title": "广州花城汇MAG环球魔幻世界",
+                    "start": "☆☆☆☆☆",
+                    "comment": "123798条评论",
+                    "price": "128",
+                    "address": "广州",
+                    "active_title": "汇集了全球各种酷炫游乐科技"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/31/74eabd4dc95afd494d92a5006c9ad4f5.water.jpg_200x200_b27fe752.jpg",
+                    "title": "美林湖温泉",
+                    "start": "☆☆☆☆☆",
+                    "comment": "785433条评论",
+                    "price": "90",
+                    "address": "花都区",
+                    "active_title": ""
+                }
+            ],
+            "goWhereList": [
+                {
+                    "id": "01",
+                    "imgUrl": "http://img1.qunarzz.com/sight/source/1812/fe/208e0360d686b8.jpg_r_640x214_7b9e6607.jpg",
+                    "proName": "广州泡汤圣地",
+                    "proDetaile": "解压之地，放松自己，来一段轻松的旅程。"
+                },
+                {
+                    "id": "02",
+                    "imgUrl": "http://img1.qunarzz.com/sight/source/1505/92/580e9ea4f37a1b.jpg_r_640x214_72112761.jpg",
+                    "proName": "广州必打卡",
+                    "proDetaile": "感受现代与传统相融合的广州"
+                },
+                {
+                    "id": "03",
+                    "imgUrl": "http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+                    "proName": "南国冰雪乐园",
+                    "proDetaile": "这里可以让你在南国感受到北国风光，让南国的你“零距离”感受北国银装素裹壮观之景"
+                },
+                {
+                    "id": "04",
+                    "imgUrl": "http://img1.qunarzz.com/sight/source/1602/9c/39c5ce9ff58609.jpg_r_640x214_efb90102.jpg",
+                    "proName": "粤西温泉必游",
+                    "proDetaile": "自驾粤西，这里有最全最心仪的温泉池，环境优美，舒舒服服的泡个热汤，远离繁忙的工作"
+                }
+            ]
+        }
+    ]
+}
