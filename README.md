@@ -1,4 +1,6 @@
 # qunar
+#效果图
+
 
 > A Vue.js project
 
