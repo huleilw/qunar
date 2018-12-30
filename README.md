@@ -1,6 +1,8 @@
 # qunar
 #效果图
-
+![image](https://github.com/huleilw/qunar/blob/master/static/img/index.png)
+![image](https://github.com/huleilw/qunar/blob/master/static/img/city.png)
+![image](https://github.com/huleilw/qunar/blob/master/static/img/detaile-banner.png)
 
 > A Vue.js project
 
